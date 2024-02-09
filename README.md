@@ -1,2 +1,5 @@
 # LoL_Pro_Meta_Analysis
-A simplified analysis of champion popularity on the League of Legends pro scene using tournament ban/pick data gathered from Leguepedia (lol.fandom.com).
+An analysis of champion popularity on the League of Legends pro scene using tournament ban/pick data gathered from Leaguepedia (lol.fandom.com).
+
+Leaguepedia_Parser_Exploration.ipynb contains code used to scrape Leaguepedia data.
+
